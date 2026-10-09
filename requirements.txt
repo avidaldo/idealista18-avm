@@ -1,0 +1,8 @@
+# What the notebooks of docs/building-the-dataset need. Add the libraries your own code uses.
+numpy>=2.0
+pandas>=3.0
+pyarrow>=15
+rdata>=1.0
+scikit-learn>=1.6
+shapely>=2.0
+jupyter

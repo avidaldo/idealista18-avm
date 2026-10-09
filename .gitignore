@@ -1,0 +1,8 @@
+# The dataset and everything the notebooks save
+data/
+
+# Environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
